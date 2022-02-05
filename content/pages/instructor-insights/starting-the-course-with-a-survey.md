@@ -19,13 +19,138 @@ On the first day of class, I gave my students a survey to complete in class. The
 
 The survey questions are given below. The numbers given in parentheses behind each answer indicate how many of the course's 43 students chose that answer.
 
-| Medieval Economy: First Day of Class Survey |
-| --- |
-| The most recent history course I took was: | The prospect of writing a paper: |
-|  {{< br >}}{{< br >}} *   In high school (29){{< br >}}*   In college (10){{< br >}}*   So long ago I cannot remember (4) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Fills me with dread (9){{< br >}}*   I do everything else first, but then can tackle it (12){{< br >}}*   Just another assignment (9){{< br >}}*   Beats doing another problem set (9){{< br >}}*   Offers an exciting opportunity (2) {{< br >}}{{< br >}}  |
-| My impression of history coming into this course is that it is: | The prospect of speaking in class: |
-|  {{< br >}}{{< br >}} *   Deadly dull (0){{< br >}}*   Dry or irrelevant (0){{< br >}}*   Neutral (18){{< br >}}*   Useful (13){{< br >}}*   Really exciting (10) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Fills me with dread (3){{< br >}}*   I would prefer to avoid it but can manage (14){{< br >}}*   No strong feelings (6){{< br >}}*   I like it once I get going (10){{< br >}}*   I eagerly seek it out (6) {{< br >}}{{< br >}}  |
-| I am here for this course because: (circle all that apply) | Speaking in class is easier if: |
-|  {{< br >}}{{< br >}} *   HASS-D (26){{< br >}}*   CI-H (15){{< br >}}*   Major/minor/concentration (33){{< br >}}*   Interest (21){{< br >}}*   Love 9:30am classes (2) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   I know many of my classmates well (20){{< br >}}*   Knowing names is nice (11){{< br >}}*   I prefer anonymity (8) {{< br >}}{{< br >}}  |
-| I learn well when: (circle all that apply) | &nbsp; |
-|  {{< br >}}{{< br >}} *   I read on my own (32){{< br >}}*   Lecture follows readings closely (23){{< br >}}*   Lecture presents different material (10){{< br >}}*   I have problems to solve (10){{< br >}}*   I work in a small group (15){{< br >}}*   Individual meeting with a professor (10){{< br >}}*   I have the chance to formulate my own arguments (16) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Medieval Economy: First Day of Class Survey
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The most recent history course I took was:
+{{< tdclose >}}
+{{< tdopen >}}
+The prospect of writing a paper:
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+*   In high school (29)
+*   In college (10)
+*   So long ago I cannot remember (4)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Fills me with dread (9)
+*   I do everything else first, but then can tackle it (12)
+*   Just another assignment (9)
+*   Beats doing another problem set (9)
+*   Offers an exciting opportunity (2)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+My impression of history coming into this course is that it is:
+{{< tdclose >}}
+{{< tdopen >}}
+The prospect of speaking in class:
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+*   Deadly dull (0)
+*   Dry or irrelevant (0)
+*   Neutral (18)
+*   Useful (13)
+*   Really exciting (10)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Fills me with dread (3)
+*   I would prefer to avoid it but can manage (14)
+*   No strong feelings (6)
+*   I like it once I get going (10)
+*   I eagerly seek it out (6)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+I am here for this course because: (circle all that apply)
+{{< tdclose >}}
+{{< tdopen >}}
+Speaking in class is easier if:
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+*   HASS-D (26)
+*   CI-H (15)
+*   Major/minor/concentration (33)
+*   Interest (21)
+*   Love 9:30am classes (2)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   I know many of my classmates well (20)
+*   Knowing names is nice (11)
+*   I prefer anonymity (8)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+I learn well when: (circle all that apply)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+*   I read on my own (32)
+*   Lecture follows readings closely (23)
+*   Lecture presents different material (10)
+*   I have problems to solve (10)
+*   I work in a small group (15)
+*   Individual meeting with a professor (10)
+*   I have the chance to formulate my own arguments (16)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

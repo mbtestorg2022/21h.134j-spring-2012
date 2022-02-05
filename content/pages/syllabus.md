@@ -33,43 +33,403 @@ Late papers will be accepted without penalty in the case of a medical emergency 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Three short discussion papers | 15% (5% each) |
-| Oral presentation of final paper thesis | 5% |
-| First draft of 1st long essay | 10% |
-| Rewrite of 1st long essay | 15% |
-| Final paper | 20% |
-| Final exam | 15% |
-| Class participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three short discussion papers
+{{< tdclose >}}
+{{< tdopen >}}
+15% (5% each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation of final paper thesis
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First draft of 1st long essay
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rewrite of 1st long essay
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Some Big Questions in Economic History, and How to Think About Them | &nbsp; |
-| 2 | Late Roman Antiquity and Barbarian Europe | First short paper due |
-| 3 | Late Roman Antiquity and Barbarian Europe (cont.) | Primary source documents handed out: "The Plan of St. Gall" and "The Capitulary on the Maintenance of the Royal Estates." |
-| 4 | Fundamentals of Good History Writing | &nbsp; |
-| 5 | The Structure of Medieval Life: Manorialism and Feudalism | Second short paper due |
-| 6 | The Wider Medieval World: Vikings, Mongols, and Saracens | Viking film |
-| 7 | The Wider Medieval World: Vikings, Mongols, and Saracens (cont.) | &nbsp; |
-| 8 | The 'Dark Ages': Myth or Reality | &nbsp; |
-| 9 | The 'Dark Ages': Myth or Reality (cont.) | &nbsp; |
-| 10 | Medieval Agriculture and Commercialization: A Revised Story | Third short paper due |
-| 11 | Rise of the Commune and Revival of Trade: Counterpoint to Autarkic Agriculture | &nbsp; |
-| 12 | Rise of the Commune and Revival of Trade: Counterpoint to Autarkic Agriculture (cont.) | &nbsp; |
-| 13 | The Plague and Its Consequences | &nbsp; |
-| 14 | The Plague and Its Consequences (cont.) | &nbsp; |
-| 15 | Overseas Expansion of Europe | First long paper due |
-| 16 | Overseas Expansion of Europe (cont.) | &nbsp; |
-| 17 | Oral Presentations | Oral presentations of final thesis |
-| 18 | Methodology and Theories of Historical Demography | &nbsp; |
-| 19 | Methodology and Theories of Historical Demography (cont.) | First draft of 2nd long paper due |
-| 20 | Grand Theories About Economic Development: Malthusians, Marxists and the Neo-Classical Tradition | &nbsp; |
-| 21 | Grand Theories About Economic Development: Malthusians, Marxists and the Neo-Classical Tradition (cont.) | &nbsp; |
-| 22 | Capitalist Organization of Economic Life: The Globalization of Trade and the Rise of Consumer Culture | Draft returned back to students |
-| 23 | Capitalist Organization of Economic Life: The Globalization of Trade and the Rise of Consumer Culture (cont.) | &nbsp; |
-| 24 | Measuring Welfare | Second long paper due |
-| 25 | The Rise of North-Western Europe: Improvements in the Standard of Living. |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Some Big Questions in Economic History, and How to Think About Them
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Late Roman Antiquity and Barbarian Europe
+{{< tdclose >}}
+{{< tdopen >}}
+First short paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Late Roman Antiquity and Barbarian Europe (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Primary source documents handed out: "The Plan of St. Gall" and "The Capitulary on the Maintenance of the Royal Estates."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamentals of Good History Writing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Structure of Medieval Life: Manorialism and Feudalism
+{{< tdclose >}}
+{{< tdopen >}}
+Second short paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Wider Medieval World: Vikings, Mongols, and Saracens
+{{< tdclose >}}
+{{< tdopen >}}
+Viking film
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The Wider Medieval World: Vikings, Mongols, and Saracens (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The 'Dark Ages': Myth or Reality
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The 'Dark Ages': Myth or Reality (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Medieval Agriculture and Commercialization: A Revised Story
+{{< tdclose >}}
+{{< tdopen >}}
+Third short paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Rise of the Commune and Revival of Trade: Counterpoint to Autarkic Agriculture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Rise of the Commune and Revival of Trade: Counterpoint to Autarkic Agriculture (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The Plague and Its Consequences
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The Plague and Its Consequences (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Overseas Expansion of Europe
+{{< tdclose >}}
+{{< tdopen >}}
+First long paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Overseas Expansion of Europe (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations of final thesis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Methodology and Theories of Historical Demography
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Methodology and Theories of Historical Demography (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+First draft of 2nd long paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Grand Theories About Economic Development: Malthusians, Marxists and the Neo-Classical Tradition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Grand Theories About Economic Development: Malthusians, Marxists and the Neo-Classical Tradition (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Capitalist Organization of Economic Life: The Globalization of Trade and the Rise of Consumer Culture
+{{< tdclose >}}
+{{< tdopen >}}
+Draft returned back to students
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Capitalist Organization of Economic Life: The Globalization of Trade and the Rise of Consumer Culture (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Measuring Welfare
+{{< tdclose >}}
+{{< tdopen >}}
+Second long paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+The Rise of North-Western Europe: Improvements in the Standard of Living.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
