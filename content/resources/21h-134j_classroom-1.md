@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
 resourcetype: Image
 title: 21H-134J_classroom-1.png
 uid: 6367acdd-a188-dafa-5be5-735ade66c34f
